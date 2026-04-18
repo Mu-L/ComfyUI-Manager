@@ -46338,6 +46338,16 @@
             ],
             "install_type": "unzip",
             "description": "This is a node to convert an image into a CMYK Halftone dot image."
+        },
+            {
+            "author": "jetthuangai",
+            "title": "ComfyUI-JH-PixelPro",
+            "reference": "https://github.com/jetthuangai/ComfyUI-JH-PixelPro",
+            "files": [
+                "https://github.com/jetthuangai/ComfyUI-JH-PixelPro"
+            ],
+            "install_type": "git-clone",
+            "description": "GPU-powered pro-grade image suite cho retouch chân dung. v0.1.0 alpha: Frequency Separation (N-01) + Sub-Pixel Mask Refiner (N-02). Kornia core, tensor thuần không rời VRAM."
         }
     ]
 }
