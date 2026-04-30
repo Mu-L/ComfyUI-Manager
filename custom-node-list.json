@@ -46049,16 +46049,6 @@
             "description": "Split a multiline prompt into up to 12 numbered STRING outputs using a user-defined delimiter. Useful for multi-segment video workflows."
         },
         {
-            "author": "Kyreo",
-            "title": "comfyui-characterpromptbuffer",
-            "reference": "https://github.com/Kyreo/ComfyUI-CharacterPromptBuffer",
-            "files": [
-                "https://github.com/Kyreo/ComfyUI-CharacterPromptBuffer"
-            ],
-            "install_type": "git-clone",
-            "description": "ComfyUI custom nodes for generating character prompt variations as batch"
-        },
-        {
             "author": "Phykrex",
             "title": "comfyui-momo-nodes",
             "reference": "https://github.com/Phykrex/ComfyUI-Momo-Nodes",
@@ -46096,7 +46086,7 @@
                 "https://github.com/xujianjian2004/ComfyUI-Title-Memo"
             ],
             "install_type": "git-clone",
-            "description": "A lightweight ComfyUI canvas annotation node with rich styling, built-in presets, and custom presets."
+            "description": "Add title, comment and memo functions to nodes, which support custom styles and automatic word wrapping, compatible with Nodes 2.0."
         },
         {
             "author": "ussaaron",
