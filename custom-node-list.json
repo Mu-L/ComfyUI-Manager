@@ -42386,6 +42386,16 @@
             "description": "A collection of nodes that provide dynamic dropdown selectors for Samplers, Schedulers, Checkpoints, and Diffusion Models, outputting a comma-separated string for use in XY plots."
         },
         {
+            "author": "DemonAlone",
+            "title": "DemonAlone-StyleSelector-ComfyUI",
+            "reference": "https://github.com/DemonAlone/DemonAlone-StyleSelector-ComfyUI",
+            "files": [
+                "https://github.com/DemonAlone/DemonAlone-StyleSelector-ComfyUI"
+            ],
+            "install_type": "git-clone",
+            "description": "Prompt Style Selector with Preview, Multiple Selecting, Search and Local Base."
+        },
+        {
             "author": "tabisheva",
             "title": "comfyui-segs-profile",
             "reference": "https://github.com/tabisheva/comfyui-segs-profile",
@@ -46608,16 +46618,6 @@
             ],
             "install_type": "unzip",
             "description": "This is a node to convert an image into a CMYK Halftone dot image."
-        },
-		{
-            "author": "DemonAlone",
-            "title": "DemonAlone-StyleSelector-ComfyUI",
-            "reference": "https://github.com/DemonAlone/DemonAlone-StyleSelector-ComfyUI",
-            "files": [
-                "https://github.com/DemonAlone/DemonAlone-StyleSelector-ComfyUI"
-            ],
-            "install_type": "git-clone",
-            "description": "Prompt Style Selector with Preview, Multiple Selecting, Search and Local Base."
         }
     ]
 }
