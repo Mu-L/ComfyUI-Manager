@@ -46198,6 +46198,16 @@
             "install_type": "git-clone",
             "description": "A node to drop frames from the output images to force the video to a lower FPS at the same playback speed."
         },
+        {
+            "author": "Emiewn",
+            "title": "ComfyUI-Emiewn-Nodes",
+            "reference": "https://github.com/emiewnn/ComfyUI-Emiewn-Nodes",
+            "files": [
+                "https://github.com/emiewnn/ComfyUI-Emiewn-Nodes"
+            ],
+            "install_type": "git-clone",
+            "description": "Custom nodes for ComfyUI: Drag & drop image paste, interactive UI crop, WAN I2V bucket resolution, and GIMM-VFI frame interpolation."
+        },
 
 
 
@@ -46588,16 +46598,6 @@
             ],
             "install_type": "unzip",
             "description": "This is a node to convert an image into a CMYK Halftone dot image."
-        },
-        {
-            "author": "Emiewn",
-            "title": "ComfyUI-Emiewn-Nodes",
-            "reference": "https://github.com/emiewnn/ComfyUI-Emiewn-Nodes",
-            "files": [
-                "https://github.com/emiewnn/ComfyUI-Emiewn-Nodes"
-            ],
-            "install_type": "git-clone",
-            "description": "Custom nodes for ComfyUI: Drag & drop image paste, interactive UI crop, WAN I2V bucket resolution, and GIMM-VFI frame interpolation."
         }
     ]
 }
